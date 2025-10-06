@@ -96,7 +96,7 @@ This project helped me practice effectively even without access to physical hard
 **Nadeeshana Lahiru Kavinda**  
 📍 Software Specialize Student, at Dept of ICT, Faculty of Technology, South Eastern University of Sri Lanka.
 | Embedded Systems | IoT | Software Development Enthusiast | Full Stack Developper 
-🔗 [LinkedIn Profile](www.linkedin.com/in/nadeeshana-lahiru-kavinda-991645244)
+🔗 [LinkedIn Profile] www.linkedin.com/in/nadeeshana-lahiru-kavinda-991645244
 
 ---
 
