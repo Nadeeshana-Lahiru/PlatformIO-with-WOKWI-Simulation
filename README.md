@@ -98,7 +98,7 @@ This project helped me practice effectively even without access to physical hard
 | Embedded Systems | IoT | Software Development Enthusiast | Full Stack Developper 
 
 ## 🔗 Connect with Me
-[**LinkedIn Profile**](https://www.linkedin.com/in/nadeeshana-lahiru-kavinda-991645244)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadeeshana%20Lahiru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nadeeshana-lahiru-kavinda-991645244)
 
 ---
 
