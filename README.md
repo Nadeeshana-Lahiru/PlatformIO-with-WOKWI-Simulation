@@ -101,7 +101,9 @@ This project helped me practice effectively even without access to physical hard
 ---
 
 ## 🏷️ License
-This project is released under the **MIT License** feel free to use it for learning or development purposes.
+
+This project is licensed under the [MIT License](./LICENSE) - see the LICENSE file for details.
+
 
 ---
 
