@@ -83,6 +83,23 @@ This project helped me practice effectively even without access to physical hard
 
 ---
 
+🌊📏 Example Project: Ultrasonic Sensor with LEDs , LCD Display with Buzzer for real world safety system
+
+To test this setup, I simulated an **HC-SR04 Ultrasonic Sensor** project.
+
+🔹 The ultrasonic sensor measures the distance of objects in front of it.  
+🔹 LEDs indicate the distance range:
+   - 🟡 Yellow LED → Object nearby  
+   - 🔴 Red LED → Object very close  
+🔹 A buzzer alerts when the object is extremely close.  
+🔹 The LCD display shows the real-time distance in centimeters and status messages.
+
+This project allowed me to **practice Arduino programming and sensor integration** effectively, even without physical hardware, making learning both consistent and fun! 🚀
+
+<img width="1920" height="1080" alt="ultrasonic sensor with LCD LED Buzzer" src="https://github.com/user-attachments/assets/419ea59e-a400-4101-894d-dbb08b41ca3a" />
+
+---
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
