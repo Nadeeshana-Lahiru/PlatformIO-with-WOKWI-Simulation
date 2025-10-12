@@ -169,6 +169,23 @@ This project helped me understand how to send and receive data through the Seria
 
 ---
 
+# 🚨 Example Project: Serial Command LED & Buzzer Control
+
+To test this setup, I simulated a **Serial Command Controlled LED and Buzzer** project.
+
+- 🔹 The program accepts user commands via the Serial Monitor:  
+  `LEDON`, `LEDOFF`, `BUZZERON`, `BUZZEROFF`.  
+- 🔹 When a command is entered, the corresponding output is activated or deactivated:  
+  - **LEDON / LEDOFF** controls the LED (pin 13).  
+  - **BUZZERON / BUZZEROFF** controls the buzzer (pin 12).  
+- 🔹 Any other input shows **“Wrong Command”** on the Serial Monitor.  
+
+This project helped me understand how to control multiple outputs via serial communication — a key skill for building interactive Arduino systems. ⚙️💡🎵
+
+<img width="1920" height="1042" alt="Blink LED and BUZZER ON with Commad from Serial Monitor Input" src="https://github.com/user-attachments/assets/7036b325-ec38-48ea-a7a6-0b26f88c85a4" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
