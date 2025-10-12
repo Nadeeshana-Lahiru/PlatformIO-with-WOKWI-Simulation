@@ -140,6 +140,20 @@ This project helped me understand how to handle multiple outputs in response to 
 
 ---
 
+# 🖥️ Example Project: Serial Monitor Output
+
+To test this setup, I simulated a simple **Serial Communication** project using the Arduino Serial Monitor.
+
+- 🔹 The program continuously sends the message **"This is Serial Monitor"** to the serial monitor every second.  
+- 🔹 The `Serial.begin(9600)` function initializes serial communication at a baud rate of 9600.  
+- 🔹 The `Serial.println()` function is used to display data or messages for debugging and testing.
+
+This project helped me understand how to use the Serial Monitor for monitoring program behavior and debugging Arduino projects effectively. ⚙️💬
+
+<img width="1920" height="1041" alt="Serial Monitor" src="https://github.com/user-attachments/assets/b296e953-cd4b-4da0-b486-de5bd3be91bd" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
