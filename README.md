@@ -71,6 +71,47 @@ You can **build, test, and simulate** your Arduino circuits anytime, anywhere co
 
 ---
 
+# 💡 Example Project: LED Blink
+
+To test this setup, I simulated a simple **LED Blink** project.
+
+- 🔹 The LED connected to pin 13 automatically turns ON and OFF every second.  
+- 🔹 This demonstrates how to control digital output pins using Arduino’s basic functions.
+
+This project helped me understand timing control and digital pin behavior — a great starting point for learning Arduino programming and circuit interaction. ⚙️🔥
+
+<img width="1920" height="1042" alt="LED_Blink" src="https://github.com/user-attachments/assets/21f75ea4-7c3d-4c7f-bbea-f5541293d7ae" />
+
+---
+
+# 🚦 Example Project: Traffic Light Simulation
+
+To test this setup, I simulated a simple **Traffic Light System** using three LEDs.
+
+- 🔹 The **green**, **orange**, and **red** LEDs turn ON and OFF in sequence to represent traffic signal timing.  
+- 🔹 Each LED changes state after a short delay, imitating real traffic light transitions.  
+- 🔹 This project demonstrates how to manage multiple digital outputs and use timing delays effectively.
+
+This experiment helped me understand sequential control and timing — an important step toward building real-world embedded systems. ⚙️💡
+
+<img width="1920" height="1041" alt="LED_Blink Traffic Light" src="https://github.com/user-attachments/assets/9f0c287a-df17-4c6e-93a5-00e57ee16702" />
+
+---
+
+# 🔘 Example Project: LED Blink with Push Button
+
+To test this setup, I simulated a simple **Button Controlled LED** project.
+
+- 🔹 The LED connected to pin 12 turns ON when the button (pin 13) is pressed.  
+- 🔹 The button uses an **internal pull-up resistor**, meaning the input reads LOW when pressed.  
+- 🔹 This demonstrates how to read digital inputs and control outputs in real time.
+
+This project helped me understand how input and output pins interact in Arduino — an essential concept for building interactive hardware projects. ⚙️✨
+
+<img width="1920" height="1041" alt="LED_Blink with Push Button" src="https://github.com/user-attachments/assets/718b2506-a4f4-4cbf-a8eb-d674e6ee5eaa" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
