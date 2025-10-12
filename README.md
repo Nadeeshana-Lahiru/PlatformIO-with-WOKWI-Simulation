@@ -71,6 +71,19 @@ You can **build, test, and simulate** your Arduino circuits anytime, anywhere co
 
 ---
 
+# 💡 Example Project: LED Blink
+
+To test this setup, I simulated a simple **LED Blink** project.
+
+- 🔹 The LED connected to pin 13 automatically turns ON and OFF every second.  
+- 🔹 This demonstrates how to control digital output pins using Arduino’s basic functions.
+
+This project helped me understand timing control and digital pin behavior — a great starting point for learning Arduino programming and circuit interaction. ⚙️🔥
+
+<img width="1920" height="1042" alt="LED_Blink" src="https://github.com/user-attachments/assets/21f75ea4-7c3d-4c7f-bbea-f5541293d7ae" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
