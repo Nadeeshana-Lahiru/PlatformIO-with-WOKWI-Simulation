@@ -112,6 +112,20 @@ This project helped me understand how input and output pins interact in Arduino 
 
 ---
 
+# 🔔 Example Project: Button Controlled Buzzer
+
+To test this setup, I simulated a simple **Button Controlled Buzzer** project.
+
+- 🔹 The buzzer connected to pin 12 produces a sound when the button (pin 13) is pressed.  
+- 🔹 The button uses an **internal pull-up resistor**, meaning it reads LOW when pressed.  
+- 🔹 The `tone()` and `noTone()` functions control the buzzer sound in real time.
+
+This project helped me learn how to generate sound using Arduino and how digital inputs can trigger specific actions in a circuit. ⚙️🎶
+
+<img width="1920" height="1042" alt="Buzzer with Push Button" src="https://github.com/user-attachments/assets/b8f2ea15-315b-4572-b53b-b2d1be003ce2" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
