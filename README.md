@@ -154,7 +154,7 @@ This project helped me understand how to use the Serial Monitor for monitoring p
 
 ---
 
-# 💡 Example Project: LED blink with Command from Serial Monitor Input
+# 💡 Example Project: LED control with Command from Serial Monitor Input
 
 To test this setup, I simulated a simple **LED Control via Serial Monitor** project.
 
