@@ -154,6 +154,21 @@ This project helped me understand how to use the Serial Monitor for monitoring p
 
 ---
 
+# 💡 Example Project: LED blink with Command from Serial Monitor Input
+
+To test this setup, I simulated a simple **LED Control via Serial Monitor** project.
+
+- 🔹 The program accepts user commands **“LEDON”** and **“LEDOFF”** through the Serial Monitor.  
+- 🔹 When **LEDON** is entered, the LED (pin 13) turns ON, and when **LEDOFF** is entered, it turns OFF.  
+- 🔹 Any other input displays **“Wrong Command”** on the Serial Monitor.  
+- 🔹 The `Serial.readStringUntil('\n')` function reads user input, while `Serial.println()` provides feedback.
+
+This project helped me understand how to send and receive data through the Serial Monitor — enabling real-time control and communication with Arduino. ⚙️💻✨
+
+<img width="1920" height="1042" alt="Blink LED with Commad from Serial Monitor Input" src="https://github.com/user-attachments/assets/68b7637e-e4e8-4345-8f0b-160d30a23256" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
