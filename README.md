@@ -84,6 +84,20 @@ This project helped me understand timing control and digital pin behavior — a 
 
 ---
 
+# 🚦 Example Project: Traffic Light Simulation
+
+To test this setup, I simulated a simple **Traffic Light System** using three LEDs.
+
+- 🔹 The **green**, **orange**, and **red** LEDs turn ON and OFF in sequence to represent traffic signal timing.  
+- 🔹 Each LED changes state after a short delay, imitating real traffic light transitions.  
+- 🔹 This project demonstrates how to manage multiple digital outputs and use timing delays effectively.
+
+This experiment helped me understand sequential control and timing — an important step toward building real-world embedded systems. ⚙️💡
+
+<img width="1920" height="1041" alt="LED_Blink Traffic Light" src="https://github.com/user-attachments/assets/9f0c287a-df17-4c6e-93a5-00e57ee16702" />
+
+---
+
 # 🔘 Example Project: LED Blink with Push Button
 
 To test this setup, I simulated a simple **Button Controlled LED** project.
