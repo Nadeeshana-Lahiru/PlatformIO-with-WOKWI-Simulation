@@ -126,6 +126,20 @@ This project helped me learn how to generate sound using Arduino and how digital
 
 ---
 
+# 🚨 Example Project: Button Controlled LED & Buzzer
+
+To test this setup, I simulated a simple **Button Controlled LED and Buzzer** project.
+
+- 🔹 When the button (pin 13) is pressed, the **LED (pin 12)** lights up and the **buzzer (pin 11)** produces sound.  
+- 🔹 The button uses an **internal pull-up resistor**, meaning it reads LOW when pressed.  
+- 🔹 Both output devices are controlled simultaneously, showing how multiple components can react to a single input.
+
+This project helped me understand how to handle multiple outputs in response to one input — a key concept in interactive embedded systems. ⚙️🔆🎵
+
+<img width="1920" height="1042" alt="LED and BUZZER with Push Button" src="https://github.com/user-attachments/assets/03fd99cf-bb1e-4e87-940c-cc86946934ad" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
