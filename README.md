@@ -84,6 +84,20 @@ This project helped me understand timing control and digital pin behavior — a 
 
 ---
 
+# 🔘 Example Project: LED Blink with Push Button
+
+To test this setup, I simulated a simple **Button Controlled LED** project.
+
+- 🔹 The LED connected to pin 12 turns ON when the button (pin 13) is pressed.  
+- 🔹 The button uses an **internal pull-up resistor**, meaning the input reads LOW when pressed.  
+- 🔹 This demonstrates how to read digital inputs and control outputs in real time.
+
+This project helped me understand how input and output pins interact in Arduino — an essential concept for building interactive hardware projects. ⚙️✨
+
+<img width="1920" height="1041" alt="LED_Blink with Push Button" src="https://github.com/user-attachments/assets/718b2506-a4f4-4cbf-a8eb-d674e6ee5eaa" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
