@@ -5,14 +5,12 @@ int btn_pin = 13;
 int buzzer_pin = 11;
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(led_pin, OUTPUT);
   pinMode(btn_pin, INPUT_PULLUP);
   pinMode(buzzer_pin,OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   int btn_state = digitalRead(btn_pin);
 
   if(btn_state == LOW){

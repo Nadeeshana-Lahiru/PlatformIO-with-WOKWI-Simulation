@@ -38,7 +38,6 @@ void loop() {
   Serial.print("Distance in inches: ");
   Serial.println(inch);
 
-  //LDC display
   lcd.setCursor(0,0);
   lcd.print("Distance:");
   lcd.setCursor(10,0);
