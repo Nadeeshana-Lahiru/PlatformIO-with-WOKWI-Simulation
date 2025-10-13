@@ -215,6 +215,22 @@ This project allowed me to **practice Arduino programming and sensor integration
 
 ---
 
+# 🌡️ Example Project: DHT22 sensor for measure Temperature & Humidity 
+
+To test this setup, I simulated a project using the **DHT22 sensor** to measure temperature and humidity.
+
+- 🔹 The sensor (pin 13) reads **humidity (%)** and **temperature** in both Celsius and Fahrenheit.  
+- 🔹 The program also calculates the **Heat Index** to indicate perceived temperature.  
+- 🔹 All readings are displayed in the **Serial Monitor** every 2 seconds.  
+- 🔹 The project handles sensor read errors and notifies if reading fails.
+
+This project helped me understand how to interface with digital sensors, process environmental data, and display results via serial communication — key concepts for IoT and weather monitoring systems. ⚙️🌤️
+
+<img width="1920" height="1045" alt="DHT22 meseasure Humidity and Temp" src="https://github.com/user-attachments/assets/8987465e-a116-4cb6-ab5e-1182a2054b52" />
+
+---
+
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
