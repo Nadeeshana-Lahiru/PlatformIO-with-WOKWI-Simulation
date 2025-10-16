@@ -201,6 +201,23 @@ This project helped me understand how matrix keypads work and how to interface t
 
 ---
 
+# 🔐 Example Project: Keypad Password System with LED & Buzzer
+
+To test this setup, I simulated a **Keypad-based Password System** that verifies a password entered through a 4x4 keypad.
+
+- 🔹 Users can enter digits using the keypad and press **‘#’** to submit the password.  
+- 🔹 The system compares the entered password with the stored one (**12345**).  
+- 🔹 If correct, the **LED (pin 13)** turns ON and the **buzzer (pin 12)** produces a tone.  
+- 🔹 If incorrect, both the LED and buzzer remain OFF.  
+- 🔹 Pressing **‘*’** clears the input and allows re-entry.  
+- 🔹 Feedback messages are displayed on the **Serial Monitor** in real time.
+
+This project helped me understand how to handle user input, verify passwords, and trigger output devices — an essential concept for building basic security and access control systems. ⚙️💡🔊
+
+<img width="1920" height="1041" alt="keypad with password for LED and BUZZER on" src="https://github.com/user-attachments/assets/d50637a3-69d1-47e0-9bc8-08044c59da14" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
