@@ -186,6 +186,21 @@ This project helped me understand how to control multiple outputs via serial com
 
 ---
 
+# 🔢 Example Project: 4x4 Keypad Input with Serial Monitor
+
+To test this setup, I simulated a **4x4 Keypad** project that detects key presses and displays them on the Serial Monitor.
+
+- 🔹 The keypad matrix consists of **4 rows and 4 columns** connected to Arduino digital pins.  
+- 🔹 When a key is pressed, its value (0–9, A–D, *, #) is shown on the Serial Monitor.  
+- 🔹 The `Keypad` library is used to manage row-column scanning and key detection efficiently.  
+- 🔹 The project continuously monitors the keypad for input in real time.
+
+This project helped me understand how matrix keypads work and how to interface them with Arduino for digital input detection — a common feature in embedded systems and access control applications. ⚙️🔐
+
+<img width="1920" height="1042" alt="Keypad" src="https://github.com/user-attachments/assets/54505e90-4b45-490c-8e61-533431fb0ff8" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
