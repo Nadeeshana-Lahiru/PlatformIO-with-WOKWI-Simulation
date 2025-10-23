@@ -218,6 +218,20 @@ This project helped me understand how to handle user input, verify passwords, an
 
 ---
 
+💡 **Example Project: Scrolling Text on LCD Display**  
+To test this setup, I simulated a simple LCD text scrolling project.  
+
+🔹 The 16x2 I2C LCD is initialized, and the backlight is turned ON for clear visibility.  
+🔹 Two “Hello” messages are displayed on the first and second rows.  
+🔹 The text scrolls continuously to the left using the `lcd.scrollDisplayLeft()` function.  
+🔹 The `setCursor()` and `print()` functions are used to position and display text.  
+
+This project helped me understand how to create interactive LCD displays and make text animations — a fun way to enhance user interfaces in embedded systems. ⚙️🔠✨
+
+<img width="1920" height="1038" alt="LCD_I2C Hello" src="https://github.com/user-attachments/assets/dc859a17-046f-4880-9bf0-158e71047d97" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
