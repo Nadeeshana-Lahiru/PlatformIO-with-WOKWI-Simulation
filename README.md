@@ -290,6 +290,19 @@ This project helped me understand how to interface with digital sensors, process
 
 ---
 
+💡 **Example Project: Display “Hello World” on OLED Screen**  
+To test this setup, I simulated a simple **OLED Text Display** project using the **Adafruit SSD1306** library. 🖥️✨  
+
+🔹 The **128x64 OLED display** is initialized using the I2C communication interface.  
+🔹 The text size and color are set using `setTextSize()` and `setTextColor()`.  
+🔹 The message **“Hello World!”** is displayed at the center of the screen using `setCursor()` and `println()`.  
+🔹 The `display.display()` function updates the screen to show the text.  
+
+This project helped me understand how to **initialize and control OLED displays**, a fundamental skill for creating informative and user-friendly interfaces in embedded systems. ⚙️💬📟  
+
+<img width="1920" height="1040" alt="OLED Hello Worldpng" src="https://github.com/user-attachments/assets/1c50ff1c-c386-4b3e-a645-a20172639971" />
+
+---
 
 ## 🧰 Tech Used
 | Tool | Purpose |
