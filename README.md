@@ -232,6 +232,20 @@ This project helped me understand how to create interactive LCD displays and mak
 
 ---
 
+💡 **Example Project: LCD_I2C Up Count and Down Count with Push Buttons**  
+To test this setup, I simulated a simple **Up and Down Counter** project using a 16x2 **I2C LCD** and two **push buttons**.  
+
+🔹 The **white button (pin 12)** increases the count each time it is pressed.  
+🔹 The **blue button (pin 13)** decreases the count when pressed.  
+🔹 The LCD displays both the **Up Count** and **Down Count** in real time using `setCursor()` and `print()`.  
+🔹 Internal pull-up resistors are used for both buttons, making wiring simple and reliable.  
+
+This project helped me understand how to handle **multiple button inputs** and **update LCD displays dynamically**, which is essential for interactive embedded applications. ⚙️🔢📟  
+
+<img width="1920" height="1046" alt="LCD_I2C Up Count and Down Count with Push Buttons" src="https://github.com/user-attachments/assets/e660341f-1c24-4f39-8dea-8c49013d3d1e" />
+
+---
+
 ## 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
