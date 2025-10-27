@@ -218,7 +218,7 @@ This project helped me understand how to handle user input, verify passwords, an
 
 ---
 
-💡 **Example Project: Scrolling Text on LCD Display**  
+# 🔠 Example Project: Scrolling Text on LCD Display
 To test this setup, I simulated a simple LCD text scrolling project.  
 
 🔹 The 16x2 I2C LCD is initialized, and the backlight is turned ON for clear visibility.  
@@ -232,7 +232,7 @@ This project helped me understand how to create interactive LCD displays and mak
 
 ---
 
-💡 **Example Project: LCD_I2C Up Count and Down Count with Push Buttons**  
+# 🔢 Example Project: LCD_I2C Up Count and Down Count with Push Buttons  
 To test this setup, I simulated a simple **Up and Down Counter** project using a 16x2 **I2C LCD** and two **push buttons**.  
 
 🔹 The **white button (pin 12)** increases the count each time it is pressed.  
@@ -246,7 +246,7 @@ This project helped me understand how to handle **multiple button inputs** and *
 
 ---
 
-## 🌞📟 Example Project: LDR Sensor with LCD Display
+# 🌞📟 Example Project: LDR Sensor with LCD Display
 To test this setup, I simulated a **Light Dependent Resistor (LDR)** project.
 
 🔹 The **LDR sensor** detects light intensity when light decreases, its resistance increases.  
@@ -290,7 +290,7 @@ This project helped me understand how to interface with digital sensors, process
 
 ---
 
-💡 **Example Project: Display “Hello World” on OLED Screen**  
+# 🖥️Example Project: Display “Hello World” on OLED Screen 
 To test this setup, I simulated a simple **OLED Text Display** project using the **Adafruit SSD1306** library. 🖥️✨  
 
 🔹 The **128x64 OLED display** is initialized using the I2C communication interface.  
@@ -304,7 +304,7 @@ This project helped me understand how to **initialize and control OLED displays*
 
 ---
 
-💡 **Example Project: Motion Detection System using PIR Sensor and LCD Display**  
+# 💡Example Project: Motion Detection System using PIR Sensor and LCD Display
 To test this setup, I simulated a simple **Motion Detection System** that uses a **PIR sensor** to detect human movement and an **LED** with **LCD display** to provide visual alerts. 🚶‍♂️💡📟  
 
 🔹 The **PIR sensor (pin 2)** continuously monitors for motion in its detection range.  
