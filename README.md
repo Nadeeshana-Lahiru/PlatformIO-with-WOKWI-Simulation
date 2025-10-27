@@ -304,6 +304,20 @@ This project helped me understand how to **initialize and control OLED displays*
 
 ---
 
+💡 **Example Project: Motion Detection System using PIR Sensor and LCD Display**  
+To test this setup, I simulated a simple **Motion Detection System** that uses a **PIR sensor** to detect human movement and an **LED** with **LCD display** to provide visual alerts. 🚶‍♂️💡📟  
+
+🔹 The **PIR sensor (pin 2)** continuously monitors for motion in its detection range.  
+🔹 When **motion is detected**, the sensor outputs HIGH, turning the **LED (pin 13)** ON and displaying **“Motion Detected”** on the LCD.  
+🔹 When **no motion** is detected, the LED turns OFF and the LCD shows **“No Motion”**, indicating a safe or idle state.  
+🔹 The system updates every second, providing **real-time monitoring** feedback.  
+
+This project helped me understand how to **interface a PIR sensor** with Arduino and use it for **security or automation systems** — such as automatic lights, smart alarms, or intrusion detection. ⚙️🧠💡  
+
+<img width="1920" height="1040" alt="PIR sensor with LCD and LED detetct Motion" src="https://github.com/user-attachments/assets/c52f1797-edb9-4105-a5d1-d74bbeeecd42" />
+
+---
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
