@@ -318,6 +318,21 @@ This project helped me understand how to **interface a PIR sensor** with Arduino
 
 ---
 
+# Example Project: Joystick Direction Indicator with LEDs 🎮💡🔼🔽⬅️➡️  
+To test this setup, I simulated a **Joystick Direction Indicator System** that uses **four LEDs** to visually show the direction of joystick movement.  
+
+🔹 The **joystick X-axis (A1)** and **Y-axis (A0)** provide analog input to the Arduino.  
+🔹 When the joystick is moved **up, down, left, or right**, the corresponding **LED** lights up — giving a clear visual indication of the direction.  
+🔹 The **center position** (around value 512) keeps all LEDs **off**, indicating a neutral joystick position.  
+🔹 This simple project demonstrates **analog input reading**, **threshold-based control**, and **digital output indication**.  
+
+This project helped me understand how to **translate analog sensor values into digital actions**, making it a great example of **real-time input visualization** using Arduino. ⚙️🧠✨  
+
+<img width="1920" height="1041" alt="Joystick with 4 LEDs" src="https://github.com/user-attachments/assets/7335e931-ed8b-4a2e-8d59-9dc0ff42e2bb" />
+
+---
+
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
