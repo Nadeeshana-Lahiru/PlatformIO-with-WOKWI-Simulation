@@ -258,7 +258,7 @@ This project helped me practice effectively even without access to physical hard
 
 ---
 
-🌊📏 Example Project: Ultrasonic Sensor with LEDs , LCD Display with Buzzer for real world safety system
+# 🌊📏 Example Project: Ultrasonic Sensor with LEDs , LCD Display with Buzzer for real world safety system
 
 To test this setup, I simulated an **HC-SR04 Ultrasonic Sensor** project.
 
