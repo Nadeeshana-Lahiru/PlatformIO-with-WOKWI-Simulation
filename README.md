@@ -332,6 +332,20 @@ This project helped me understand how to **translate analog sensor values into d
 
 ---
 
+# Example Project: DS18B20 Temperature Monitoring System 🌡️📟✨
+
+To test this setup, I built a simple **Temperature Monitoring System** using the **DS18B20 digital temperature sensor and an Arduino**.
+
+🔹 The **DS18B20** communicates through the **OneWire** protocol using a single data pin.
+🔹 The system reads the current temperature in both **Celsius (°C) and Fahrenheit (°F)**.
+🔹 All temperature values are printed to the **Serial Monitor**, updating every second.
+🔹 This project demonstrates how to work with **digital sensors, data buses**, and **real-time serial output**.
+
+This project helped me understand how to handle **OneWire communication**, manage **digital temperature data**, and display sensor readings in a clear and real-time manner. A perfect beginner-friendly example of using **external sensors with Arduino**! ⚙️📡🔥
+
+<img width="1920" height="1043" alt="Dallas Temp Sensor" src="https://github.com/user-attachments/assets/35ac46c9-9283-4693-9232-a43d62699ecb" />
+
+---
 
 ## 🧰 Tech Used
 | Tool | Purpose |
