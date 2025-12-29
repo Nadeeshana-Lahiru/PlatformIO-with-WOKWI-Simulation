@@ -347,6 +347,21 @@ This project helped me understand how to handle **OneWire communication**, manag
 
 ---
 
+# Example Project: Touch Sensor Based LED & LCD Display System 👆📟💡
+
+To test this setup, I built a simple Touch Sensor Monitoring System using a capacitive **touch sensor**, Arduino, LED, and I2C LCD display.
+
+🔹 The **touch sensor** detects human touch and sends a **digital HIGH** or **LOW** signal to the Arduino.
+🔹 When a **touch is detected**, the **LED turns ON** and the LCD displays a “Touch Detected” message.
+🔹 When **no touch is detected**, the **LED turns OFF** and the LCD shows “No Touch”.
+🔹 The 16×2 I2C LCD is used to display real-time system status clearly.
+🔹 The system continuously updates the output with a short delay for smooth operation.
+
+This project helped me understand how to work with digital input sensors, control output devices (LEDs), and display real-time status messages on an LCD.
+It is a perfect beginner-friendly Arduino project to learn sensor interfacing, conditional logic, and I2C communication. ⚙️📡✨
+
+---
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
