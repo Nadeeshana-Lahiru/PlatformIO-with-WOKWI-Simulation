@@ -293,10 +293,10 @@ This project helped me understand how to interface with digital sensors, process
 # 🖥️Example Project: Display “Hello World” on OLED Screen 
 To test this setup, I simulated a simple **OLED Text Display** project using the **Adafruit SSD1306** library. 🖥️✨  
 
-🔹 The **128x64 OLED display** is initialized using the I2C communication interface.  
-🔹 The text size and color are set using `setTextSize()` and `setTextColor()`.  
-🔹 The message **“Hello World!”** is displayed at the center of the screen using `setCursor()` and `println()`.  
-🔹 The `display.display()` function updates the screen to show the text.  
+- 🔹 The **128x64 OLED display** is initialized using the I2C communication interface.  
+- 🔹 The text size and color are set using `setTextSize()` and `setTextColor()`.  
+- 🔹 The message **“Hello World!”** is displayed at the center of the screen using `setCursor()` and `println()`.  
+- 🔹 The `display.display()` function updates the screen to show the text.  
 
 This project helped me understand how to **initialize and control OLED displays**, a fundamental skill for creating informative and user-friendly interfaces in embedded systems. ⚙️💬📟  
 
@@ -307,10 +307,10 @@ This project helped me understand how to **initialize and control OLED displays*
 # 💡Example Project: Motion Detection System using PIR Sensor and LCD Display
 To test this setup, I simulated a simple **Motion Detection System** that uses a **PIR sensor** to detect human movement and an **LED** with **LCD display** to provide visual alerts. 🚶‍♂️💡📟  
 
-🔹 The **PIR sensor (pin 2)** continuously monitors for motion in its detection range.  
-🔹 When **motion is detected**, the sensor outputs HIGH, turning the **LED (pin 13)** ON and displaying **“Motion Detected”** on the LCD.  
-🔹 When **no motion** is detected, the LED turns OFF and the LCD shows **“No Motion”**, indicating a safe or idle state.  
-🔹 The system updates every second, providing **real-time monitoring** feedback.  
+- 🔹 The **PIR sensor (pin 2)** continuously monitors for motion in its detection range.  
+- 🔹 When **motion is detected**, the sensor outputs HIGH, turning the **LED (pin 13)** ON and displaying **“Motion Detected”** on the LCD.  
+- 🔹 When **no motion** is detected, the LED turns OFF and the LCD shows **“No Motion”**, indicating a safe or idle state.  
+- 🔹 The system updates every second, providing **real-time monitoring** feedback.  
 
 This project helped me understand how to **interface a PIR sensor** with Arduino and use it for **security or automation systems** — such as automatic lights, smart alarms, or intrusion detection. ⚙️🧠💡  
 
@@ -321,10 +321,10 @@ This project helped me understand how to **interface a PIR sensor** with Arduino
 # Example Project: Joystick Direction Indicator with LEDs 🎮💡🔼🔽⬅️➡️  
 To test this setup, I simulated a **Joystick Direction Indicator System** that uses **four LEDs** to visually show the direction of joystick movement.  
 
-🔹 The **joystick X-axis (A1)** and **Y-axis (A0)** provide analog input to the Arduino.  
-🔹 When the joystick is moved **up, down, left, or right**, the corresponding **LED** lights up — giving a clear visual indication of the direction.  
-🔹 The **center position** (around value 512) keeps all LEDs **off**, indicating a neutral joystick position.  
-🔹 This simple project demonstrates **analog input reading**, **threshold-based control**, and **digital output indication**.  
+- 🔹 The **joystick X-axis (A1)** and **Y-axis (A0)** provide analog input to the Arduino.  
+- 🔹 When the joystick is moved **up, down, left, or right**, the corresponding **LED** lights up — giving a clear visual indication of the direction.  
+- 🔹 The **center position** (around value 512) keeps all LEDs **off**, indicating a neutral joystick position.  
+- 🔹 This simple project demonstrates **analog input reading**, **threshold-based control**, and **digital output indication**.  
 
 This project helped me understand how to **translate analog sensor values into digital actions**, making it a great example of **real-time input visualization** using Arduino. ⚙️🧠✨  
 
@@ -336,10 +336,10 @@ This project helped me understand how to **translate analog sensor values into d
 
 To test this setup, I built a simple **Temperature Monitoring System** using the **DS18B20 digital temperature sensor and an Arduino**.
 
-🔹 The **DS18B20** communicates through the **OneWire** protocol using a single data pin.
-🔹 The system reads the current temperature in both **Celsius (°C) and Fahrenheit (°F)**.
-🔹 All temperature values are printed to the **Serial Monitor**, updating every second.
-🔹 This project demonstrates how to work with **digital sensors, data buses**, and **real-time serial output**.
+- 🔹 The **DS18B20** communicates through the **OneWire** protocol using a single data pin.
+- 🔹 The system reads the current temperature in both **Celsius (°C) and Fahrenheit (°F)**.
+- 🔹 All temperature values are printed to the **Serial Monitor**, updating every second.
+- 🔹 This project demonstrates how to work with **digital sensors, data buses**, and **real-time serial output**.
 
 This project helped me understand how to handle **OneWire communication**, manage **digital temperature data**, and display sensor readings in a clear and real-time manner. A perfect beginner-friendly example of using **external sensors with Arduino**! ⚙️📡🔥
 
@@ -351,11 +351,11 @@ This project helped me understand how to handle **OneWire communication**, manag
 
 To test this setup, I built a simple Touch Sensor Monitoring System using a capacitive **touch sensor**, Arduino, LED, and I2C LCD display.
 
-🔹 The **touch sensor** detects human touch and sends a **digital HIGH** or **LOW** signal to the Arduino.
-🔹 When a **touch is detected**, the **LED turns ON** and the LCD displays a “Touch Detected” message.
-🔹 When **no touch is detected**, the **LED turns OFF** and the LCD shows “No Touch”.
-🔹 The 16×2 I2C LCD is used to display real-time system status clearly.
-🔹 The system continuously updates the output with a short delay for smooth operation.
+- 🔹 The **touch sensor** detects human touch and sends a **digital HIGH** or **LOW** signal to the Arduino.
+- 🔹 When a **touch is detected**, the **LED turns ON** and the LCD displays a “Touch Detected” message.
+- 🔹 When **no touch is detected**, the **LED turns OFF** and the LCD shows “No Touch”.
+- 🔹 The 16×2 I2C LCD is used to display real-time system status clearly.
+- 🔹 The system continuously updates the output with a short delay for smooth operation.
 
 This project helped me understand how to work with digital input sensors, control output devices (LEDs), and display real-time status messages on an LCD.
 It is a perfect beginner-friendly Arduino project to learn sensor interfacing, conditional logic, and I2C communication. ⚙️📡✨
