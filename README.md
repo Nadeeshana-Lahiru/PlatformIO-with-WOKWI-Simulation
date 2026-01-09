@@ -362,6 +362,23 @@ It is a perfect beginner-friendly Arduino project to learn sensor interfacing, c
 
 ---
 
+# 🔥 Flame Sensor Based Fire Detection System with LED, Buzzer & LCD 🚨📟💡
+
+To test this setup, I built a simple **Flame Sensor Monitoring System** using a **flame sensor**, Arduino, LED, buzzer, and a 16×2 I2C LCD display.
+
+* 🔹 The **flame sensor** detects the presence of fire and sends a **digital HIGH or LOW** signal to the Arduino.
+* 🔹 When **fire is detected**, the **LED turns ON**, the **buzzer sounds**, and the LCD displays **“Fire”**.
+* 🔹 When **no fire is detected**, the **LED turns OFF**, the **buzzer stops**, and the LCD shows **“No Fire”**.
+* 🔹 The **buzzer** provides an audible alert for immediate warning.
+* 🔹 The **16×2 I2C LCD** clearly displays the real-time fire status.
+* 🔹 Serial Monitor is used to print **“Fire”** or **“No Fire”** for debugging and monitoring.
+* 🔹 The system updates continuously with a short delay for stable output.
+
+This project helped me understand how to work with **digital sensors**, **alert devices (LED & buzzer)**, and **I2C LCD communication**.
+It is a **beginner-friendly Arduino safety project** to learn sensor interfacing, conditional logic, and real-time alert systems. ⚙️🔥📡✨
+
+---
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
