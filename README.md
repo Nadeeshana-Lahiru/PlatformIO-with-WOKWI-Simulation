@@ -379,6 +379,24 @@ It is a **beginner-friendly Arduino safety project** to learn sensor interfacing
 
 ---
 
+# 🚨 IR Sensor Based Motion Detection & Security Alert System 🔴📟🔊
+
+To test this setup, I built a simple **Motion Detection Security System** using an **IR sensor**, Arduino, **LED**, **buzzer**, and a **16×2 I2C LCD display**.
+
+* 🔹 The **IR sensor** monitors movement in the area and sends a **digital HIGH or LOW** signal to the Arduino.
+* 🔹 When **no motion is detected**, the **LED remains OFF**, the **buzzer is silent**, and the LCD displays **“Area Secure”**.
+* 🔹 When **motion is detected**, the **LED turns ON**, the **buzzer sounds**, and the LCD shows **“Motion Detected”**.
+* 🔹 The **buzzer** acts as an audible alarm to alert unauthorized movement.
+* 🔹 The **16×2 I2C LCD** clearly displays the current security status.
+* 🔹 The system updates every few seconds to provide stable and readable output.
+
+This project helped me understand how to use **IR sensors for motion detection**, control **alert devices (LED & buzzer)**, and display **real-time security messages** using an I2C LCD.
+It is a **beginner-friendly Arduino security project** to learn sensor interfacing, conditional logic, and basic alarm systems. ⚙️👀🔐✨
+
+<img width="1920" height="1042" alt="IR Remote" src="https://github.com/user-attachments/assets/643acb24-2f63-41cd-b0af-08e34a27a14c" />
+
+---
+
 ## 🧰 Tech Used
 | Tool | Purpose |
 |------|----------|
